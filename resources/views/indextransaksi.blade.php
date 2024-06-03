@@ -235,6 +235,7 @@
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
     <script>
+      
       // Fungsi untuk mengambil dan menampilkan data transaksi
       function loadTransactions(filter = '') {
         $.ajax({
